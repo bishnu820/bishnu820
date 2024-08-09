@@ -1,16 +1,17 @@
-## Hi there 👋
+# bpsg820
+Hi there, it's Bishnu  👋 (Bishnu Prasad Sharma)
 
-<!--
-**bishnu820/bishnu820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Enthusiast | Data Science Enthusiast  | Python Developer . To utilize my knowledge and ideas in this field of machine learning toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Reach me on:
+
+My profile in [LinkedIn](https://www.linkedin.com/in/bishnu-prasad-sharma-141a20257/) 
+
+
+My Github stats:
+
+🔭 I’m currently working on - Data Science & Machine Learning.
+
+🌱 I’m currently learning - Deep learning, NLP, Computer Vision & Full-Stack web development.
