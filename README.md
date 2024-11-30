@@ -14,4 +14,4 @@ My Github stats:
 
 🔭 I’m currently working on - Data Science & Machine Learning.
 
-🌱 I’m currently learning - Deep learning, NLP, Computer Vision & Full-Stack web development.
+🌱 I’m currently learning - Deep learning, NLP, Computer Vision.
